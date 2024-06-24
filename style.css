@@ -15,9 +15,10 @@ body {
 #main {
   background-color: royalblue;
   width: 60%;
-  height: 60vh;
+  height: 62vh;
   margin: auto;
   text-align: center;
+  border-radius: 8px;
 }
 
 h1 {
